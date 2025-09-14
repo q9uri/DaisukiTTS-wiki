@@ -17,4 +17,4 @@ Aivis Projectの独自規格
 
 ### リンク
 [q9uri/aivmlib](https://github.com/q9uri/aivmlib)  
-[q9uri/aivmlib](https://github.com/q9uri/aivmlib-web)  
+[q9uri/aivmlib-web](https://github.com/q9uri/aivmlib-web)  
